@@ -38,8 +38,8 @@
         "format": "yarn format:python && yarn format:js"
     },
     "dependencies": {
-        "@babel/core": "^7.10.4",
-        "@babel/runtime": "^7.10.4",
+        "@babel/core": "^7.15.0",
+        "@babel/runtime": "^7.15.3",
         "@monaco-editor/react": "^4.1.3",
         "@papercups-io/chat-widget": "^1.1.10",
         "@popperjs/core": "^2.9.2",
