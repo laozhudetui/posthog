@@ -74,7 +74,7 @@ git+https://github.com/zapier/django-rest-hooks.git@v1.6.0
     # via -r requirements.in
 django-statsd==2.5.2
     # via -r requirements.in
-django==3.2.5
+django==3.2.16
     # via
     #   -r requirements.in
     #   django-axes
@@ -205,7 +205,7 @@ social-auth-core==4.0.2
     # via
     #   -r requirements.in
     #   social-auth-app-django
-sqlparse==0.3.0
+sqlparse==0.4.2
     # via django
 statshog==1.0.6
     # via -r requirements.in
