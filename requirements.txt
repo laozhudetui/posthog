@@ -97,7 +97,7 @@ drf-exceptions-hog==0.0.4
     # via -r requirements.in
 drf-extensions==0.7.0
     # via -r requirements.in
-future==0.18.2
+future==0.18.3
     # via lzstring
 grpcio==1.33.1
     # via -r requirements.in
