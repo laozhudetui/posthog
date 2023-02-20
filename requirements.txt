@@ -39,7 +39,7 @@ clickhouse-driver==0.2.1
     #   clickhouse-pool
 clickhouse-pool==0.5.3
     # via -r requirements.in
-cryptography==3.4.7
+cryptography==39.0.1
     # via
     #   kafka-helper
     #   social-auth-core
