@@ -168,7 +168,7 @@ pytz==2021.1
     #   django
     #   infi.clickhouse-orm
     #   tzlocal
-redis==3.4.1
+redis==4.3.6
     # via
     #   -r requirements.in
     #   celery-redbeat
