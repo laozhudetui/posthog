@@ -132,7 +132,7 @@ redis==3.5.3
     # via fakeredis
 regex==2020.6.8
     # via black
-requests==2.25.1
+requests==2.31.0
     # via
     #   coreapi
     #   djangorestframework-stubs
