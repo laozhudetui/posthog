@@ -24,7 +24,7 @@ celery==4.4.2
     # via
     #   -r requirements.in
     #   celery-redbeat
-certifi==2019.11.28
+certifi==2023.7.22
     # via
     #   requests
     #   sentry-sdk
