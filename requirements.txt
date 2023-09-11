@@ -54,7 +54,7 @@ defusedxml==0.6.0
     #   social-auth-core
 dj-database-url==0.5.0
     # via -r requirements.in
-django-axes==5.9.0
+django-axes==5.20.0
     # via -r requirements.in
 django-cors-headers==3.5.0
     # via -r requirements.in
