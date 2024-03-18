@@ -13,7 +13,7 @@ attrs==19.3.0
     #   black
     #   flake8-bugbear
     #   pytest
-black==19.10b0
+black==24.3.0
     # via -r requirements-dev.in
 certifi==2020.12.5
     # via requests
