@@ -217,7 +217,7 @@ tzlocal==2.1
     # via clickhouse-driver
 unicodecsv==0.14.1
     # via djangorestframework-csv
-urllib3==1.26.5
+urllib3==1.26.19
     # via
     #   requests
     #   sentry-sdk
