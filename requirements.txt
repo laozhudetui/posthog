@@ -87,7 +87,7 @@ django==3.2.5
     #   djangorestframework
 djangorestframework-csv==2.1.0
     # via -r requirements.in
-djangorestframework==3.12.2
+djangorestframework==3.15.2
     # via
     #   -r requirements.in
     #   djangorestframework-csv
