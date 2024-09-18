@@ -94,7 +94,7 @@
         "redux": "^4.0.5",
         "reselect": "^4.0.0",
         "resize-observer-polyfill": "^1.5.1",
-        "sass": "^1.26.2",
+        "sass": "^1.79.0",
         "use-debounce": "^6.0.1",
         "zxcvbn": "^4.4.2"
     },
