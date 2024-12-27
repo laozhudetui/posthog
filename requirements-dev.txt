@@ -79,7 +79,7 @@ isort==5.2.2
     # via -r requirements-dev.in
 itypes==1.2.0
     # via coreapi
-jinja2==2.11.3
+jinja2==3.1.5
     # via coreschema
 markupsafe==1.1.1
     # via jinja2
